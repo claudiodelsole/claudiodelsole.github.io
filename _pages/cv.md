@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Statistics and Computer Science, Università Bocconi, 2020-current
+* M.Sc. in Engineering Mathematics, Politecnico di Torino, 2018-2020
+* B.Sc. in Mathematics for Engineering, Politecnico di Torino, 2015-2018
+
+Awards and Scholarships
+======
+* Ph.D. Scolarship, Università Bocconi, 2020-2024
+* Alta Scuola Politecnica, Politecnico di Torino & Politecnico di Milano, 2018-2020
+* Percorso per Giovani Talenti, Politecnico di Torino, 2015-2018
+
+Studies abroad
+======
+* Exchange Program, Applied Mathematics, EPFL, Fall 2019
+
+Summer Schools and Training Courses
+======
+* CyberChallenge.IT, Politecnico di Torino, Spring 2020
+* EIA European Innovation Academy, Politecnico di Torino, Summer 2017
+* AlfaClass (Progetto Diderot), Politecnico di Torino & Università di Torino, Summer 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2018 - Spring 2020: Academic Tutor
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Italian: native speaker
+* English: fluent written and spoken
+* French: basic knowledge
+  
+Programming Skills
+======
+* Programming Languages: C, C++, Java, Python, R, MATLAB
+* Database: SQL, Spark
+* Web Development: HTML, PHP
 
 Publications
 ======
@@ -54,6 +65,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
