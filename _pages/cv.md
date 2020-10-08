@@ -46,18 +46,6 @@ Programming Skills
 * Programming Languages: C, C++, Java, Python, R, MATLAB
 * Database: SQL, Spark
 * Web Development: HTML, PHP
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
