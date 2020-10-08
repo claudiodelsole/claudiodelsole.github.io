@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Claudio Del Sole"
 description              : &description "Personal Description" # TO BE COMPLETED
 url                      : https://claudiodelsole.github.io # the base hostname & protocol for your site
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site
 repository               : "claudiodelsole/claudiodelsole.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/
 breadcrumbs              : false # true, false (default)
@@ -81,7 +81,7 @@ author:
   name             : "Claudio Del Sole"
   avatar           : "profile.png"
   bio              : "Biography" # TO BE COMPLETED
-  location         : "Location" # TO BE COMPLETED
+  location         : "Milan, Turin, Alessandria (Italy)"
   employer         :
   pubmed           :
   googlescholar    :
