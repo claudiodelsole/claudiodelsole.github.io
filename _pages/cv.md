@@ -31,7 +31,7 @@ Summer Schools and Training Courses
 * EIA European Innovation Academy, Politecnico di Torino, Summer 2017
 * AlfaClass (Progetto Diderot), Politecnico di Torino & Università di Torino, Summer 2016
 
-Work experience
+Teaching experience
 ======
 * Fall 2018 - Spring 2020: Academic Tutor
 
