@@ -43,6 +43,6 @@ Languages
   
 Programming Skills
 ======
-* Programming Languages: C, C++, Java, Python, R, MATLAB
+* Programming Languages: C, C++, Java, Python, R, Julia, MATLAB
 * Database: SQL, Spark
 * Web Development: HTML, PHP
