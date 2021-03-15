@@ -17,7 +17,7 @@ Education
 
 Awards and Scholarships
 ======
-* Ph.D. Scolarship, Università Bocconi, 2020-2024
+* Ph.D. Scholarship, Università Bocconi, 2020-2024
 * Alta Scuola Politecnica, Politecnico di Torino & Politecnico di Milano, 2018-2020
 * Percorso per Giovani Talenti, Politecnico di Torino, 2015-2018
 
@@ -43,6 +43,6 @@ Languages
   
 Programming Skills
 ======
-* Programming Languages: C, C++, Java, Python, R, Julia, MATLAB
+* Programming Languages: C, Julia, MATLAB, C++, Java, Python, R
 * Database: SQL, Spark
 * Web Development: HTML, PHP
