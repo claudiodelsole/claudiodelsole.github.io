@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD Student in Statistics and Computer Science at Bocconi University.
+I am a fourth year PhD Student in Statistics and Computer Science at Bocconi University. I'm working on Bayesian nonparametrics, under the supervision of Prof. Antonio Lijoi and Prof. Igor Pr\"unster.
