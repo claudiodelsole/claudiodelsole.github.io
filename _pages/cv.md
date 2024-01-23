@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Statistics and Computer Science, Università Bocconi, 2020-current
+* Ph.D. in Statistics and Computer Science, Università Bocconi, 2020-current (expected graduation: January 2025)
 * M.Sc. in Engineering Mathematics, Politecnico di Torino, 2018-2020
 * B.Sc. in Mathematics for Engineering, Politecnico di Torino, 2015-2018
 
