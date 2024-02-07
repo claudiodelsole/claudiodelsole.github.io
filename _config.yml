@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Claudio Del Sole"
-  avatar           : "files/profile_photo.jpg"
+  avatar           : "profile_photo.jpg"
   bio              : "PhD Student in Statistics and Computer Science"
   location         : "Milan, Italy"
   employer         : "Bocconi University"
