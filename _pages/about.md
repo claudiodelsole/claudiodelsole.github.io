@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -43,31 +43,37 @@ Del Sole, C., Lijoi, A., Prünster, I. (2024+).
 
 ## Presentations & Conferences
 
-#### Invited Presentations
+### Invited Presentations
 
 * [ISBA World Meeting](https://www.unive.it/web/en/2208/home), July 2024, Venice, Italy.
 * [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/), June 2024, Rome, Italy.
 * [EcoSta 2023](https://www.cmstatistics.org/EcoSta2023/index.php), 6th International Conference on Econometrics and Statistics, August 2023, Tokyo, Japan.
 
-#### Contributed Presentations
+### Contributed Presentations
 
 * [Bayes at CIRM](https://bayesatcirm.github.io/2023/), Autumn School in Bayesian Statistics, October 2023, Marseille, France.
 
-#### Posters
+### Posters
 
 * Workshop on Approximation Methods in Bayesian Analysis, June 2023, Marseille, France.
 
-#### Conference participations
+### Conference participations
 
-* [BNP 13](https://midas.mat.uc.cl/bnp13/), 13th International Conference on Bayesian Nonparametric, Puerto Varas, Chile.
-* BNP Networking Workshop, Nicosia, Cyprus.
+* Workshop on Theory for Scalable, Modern Statistical Methods, April 2023, Milan, Italy.
+* [BNP 13](https://midas.mat.uc.cl/bnp13/), 13th International Conference on Bayesian Nonparametric, October 2022, Puerto Varas, Chile.
+* BNP Networking Workshop, April 2022, Nicosia, Cyprus.
 
 ## Teaching Experience
 
-* Mathematical Methods for Engineering, Co-instructor, Spring 2023, Politecnico di Torino.
-* Machine Learning II, Teaching Assistant, Fall 2023, Bocconi University.
-* Fundamentals of Business Analytics, Teaching Assistant, Fall 2022-2023, Bocconi University.
-* Mathematical Analysis II, Teaching Assistant, Spring 2022-2023-2024, Bocconi University.
-* Mathematical Statistics, Teaching Assistant, Fall 2021-2022-2023, Bocconi University.
-* Mathematical Methods for Engineering, Academic Tutor, Spring 2019, Politecnico di Torino.
-* Probability and Statistics, Academic Tutor, Fall 2018, Politecnico di Torino.
+### Bocconi University
+
+* Machine Learning II, Teaching Assistant, Fall 2023.
+* Fundamentals of Business Analytics, Teaching Assistant, Fall 2022-2023.
+* Mathematical Analysis II, Teaching Assistant, Spring 2022-2023-2024.
+* Mathematical Statistics, Teaching Assistant, Fall 2021-2022-2023.
+
+### Politecnico di Torino
+
+* Mathematical Methods for Engineering, Co-instructor, Spring 2023.
+* Mathematical Methods for Engineering, Academic Tutor, Spring 2019.
+* Probability and Statistics, Academic Tutor, Fall 2018.
