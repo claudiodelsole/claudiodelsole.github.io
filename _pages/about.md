@@ -29,16 +29,45 @@ I'm also a member of the [Bayes Lab](https://bayeslab.unibocconi.eu/) at Bocconi
 
 ## Publications
 
-* A Unified Approach to Hierarchical Random Measures.
-Catalano, M., Del Sole, C., Lijoi, A., Prünster, I. (2023).
+* **A Unified Approach to Hierarchical Random Measures**.  
+Catalano, M., Del Sole, C., Lijoi, A., Prünster, I. (2023).  
 *D. Basu Centennial Volume, Sankhya A*, forthcoming. [[link]](https://link.springer.com/article/10.1007/s13171-023-00330-w)
-* A Note on the Dependence Structure of Hierarchical Random Measures.
-Catalano, M., Del Sole, C. (2023).
+* **A Note on the Dependence Structure of Hierarchical Random Measures**.  
+Catalano, M., Del Sole, C. (2023).  
 *Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_8)
 
 ## Working papers
 
-* Hierarchically dependent mixture hazard rates for modelling competing risks.
+* **Hierarchically dependent mixture hazard rates for modelling competing risks**.  
 Del Sole, C., Lijoi, A., Prünster, I. (2024+).
 
 ## Presentations & Conferences
+
+#### Invited Presentations
+
+* [ISBA World Meeting](https://www.unive.it/web/en/2208/home), July 2024, Venice, Italy.
+* [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/), June 2024, Rome, Italy.
+* [EcoSta 2023](https://www.cmstatistics.org/EcoSta2023/index.php), 6th International Conference on Econometrics and Statistics, August 2023, Tokyo, Japan.
+
+#### Contributed Presentations
+
+* [Bayes at CIRM](https://bayesatcirm.github.io/2023/), Autumn School in Bayesian Statistics, October 2023, Marseille, France.
+
+#### Posters
+
+* Workshop on Approximation Methods in Bayesian Analysis, June 2023, Marseille, France.
+
+#### Conference participations
+
+* [BNP 13](https://midas.mat.uc.cl/bnp13/), 13th International Conference on Bayesian Nonparametric, Puerto Varas, Chile.
+* BNP Networking Workshop, Nicosia, Cyprus.
+
+## Teaching Experience
+
+* Mathematical Methods for Engineering, Co-instructor, Spring 2023, Politecnico di Torino.
+* Machine Learning II, Teaching Assistant, Fall 2023, Bocconi University.
+* Fundamentals of Business Analytics, Teaching Assistant, Fall 2022-2023, Bocconi University.
+* Mathematical Analysis II, Teaching Assistant, Spring 2022-2023-2024, Bocconi University.
+* Mathematical Statistics, Teaching Assistant, Fall 2021-2022-2023, Bocconi University.
+* Mathematical Methods for Engineering, Academic Tutor, Spring 2019, Politecnico di Torino.
+* Probability and Statistics, Academic Tutor, Fall 2018, Politecnico di Torino.
