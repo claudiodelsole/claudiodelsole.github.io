@@ -36,7 +36,7 @@ Catalano, M., Del Sole, C., Lijoi, A., Prünster, I. (2023).
 Catalano, M., Del Sole, C. (2023).  
 *Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_8)
 
-#### Working papers
+### Working papers
 
 * **Hierarchically dependent mixture hazard rates for modelling competing risks**.  
 Del Sole, C., Lijoi, A., Prünster, I. (2024+).
