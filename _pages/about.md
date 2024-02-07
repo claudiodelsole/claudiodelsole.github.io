@@ -11,7 +11,7 @@ I am a fourth year PhD Student in [Statistics and Computer Science](https://www.
 
 I'm working on Bayesian nonparametrics, under the supervision of Prof. [Antonio Lijoi](https://mypage.unibocconi.eu/antoniolijoi/) and Prof. [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/).
 
-I'm also a member of the [Bayes Lab](https://bayeslab.unibocconi.eu/) at Bocconi University.
+I'm also a member of the Bayesian Learning Laboratory ([Bayes Lab](https://bayeslab.unibocconi.eu/)) at Bocconi University.
 
 ## Education
 
