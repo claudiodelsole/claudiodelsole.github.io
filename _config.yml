@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Claudio Del Sole"
   avatar           : "profile_photo.jpg"
-  bio              : "PhD Student, Statistics and Computer Science"
-  location         : "Milan, Turin (Italy)"
+  bio              : "PhD Student in Statistics and Computer Science"
+  location         : "Milan, Italy"
   employer         : "Bocconi University"
   pubmed           :
-  googlescholar    :
+  googlescholar    : 
   email            : "claudio.delsole@phd.unibocconi.it"
   researchgate     :
   uri              :

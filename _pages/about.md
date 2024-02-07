@@ -11,9 +11,9 @@ I am a fourth year PhD Student in [Statistics and Computer Science](https://www.
 
 I'm working on Bayesian nonparametrics, under the supervision of Prof. [Antonio Lijoi](https://mypage.unibocconi.eu/antoniolijoi/) and Prof. [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/).
 
-I'm also a member of the [Bayes Lab](https://bayeslab.unibocconi.eu/).
+I'm also a member of the [Bayes Lab](https://bayeslab.unibocconi.eu/) at Bocconi University.
 
-### Education
+## Education
 
 * Ph.D. in Statistics and Computer Science, Bocconi University, 9/2020-present (expected graduation: January 2025)
 * M.Sc. in Engineering Mathematics, Politecnico di Torino, 9/2018-10/2020
@@ -21,8 +21,24 @@ I'm also a member of the [Bayes Lab](https://bayeslab.unibocconi.eu/).
 * Exchange Program in Applied Mathematics, EPFL, Fall 2019
 * B.Sc. in Mathematics for Engineering, Politecnico di Torino, 10/2015-10/2018
 
-### Awards and Funding
+## Awards and Funding
 
 * Ph.D. Scholarship, Bocconi University, 2020-2024
 * Alta Scuola Politecnica (merit-based tuition waiver), Politecnico di Torino & Politecnico di Milano, 2018-2020
 * Percorso per Giovani Talenti (merit-based tuition waiver), Politecnico di Torino, 2015-2018
+
+## Publications
+
+* A Unified Approach to Hierarchical Random Measures.
+Catalano, M., Del Sole, C., Lijoi, A., Prünster, I. (2023).
+*D. Basu Centennial Volume, Sankhya A*, forthcoming. [[link]](https://link.springer.com/article/10.1007/s13171-023-00330-w)
+* A Note on the Dependence Structure of Hierarchical Random Measures.
+Catalano, M., Del Sole, C. (2023).
+*Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_8)
+
+## Working papers
+
+* Hierarchically dependent mixture hazard rates for modelling competing risks.
+Del Sole, C., Lijoi, A., Prünster, I. (2024+).
+
+## Presentations & Conferences
