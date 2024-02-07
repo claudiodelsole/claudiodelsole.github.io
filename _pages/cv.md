@@ -11,38 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Statistics and Computer Science, Università Bocconi, 2020-current (expected graduation: January 2025)
-* M.Sc. in Engineering Mathematics, Politecnico di Torino, 2018-2020
-* B.Sc. in Mathematics for Engineering, Politecnico di Torino, 2015-2018
+* Ph.D. in Statistics and Computer Science, Bocconi University, 9/2020-present (expected graduation: January 2025)
+* M.Sc. in Engineering Mathematics, Politecnico di Torino, 9/2018-10/2020
+* Alta Scuola Politecnica (double degree program), Politecnico di Torino & Politecnico di Milano, 2/2019-10/2020
+* Exchange Program in Applied Mathematics, EPFL, Fall 2019
+* B.Sc. in Mathematics for Engineering, Politecnico di Torino, 10/2015-10/2018
 
-Awards and Scholarships
+Awards and Funding
 ======
-* Ph.D. Scholarship, Università Bocconi, 2020-2024
-* Alta Scuola Politecnica, Politecnico di Torino & Politecnico di Milano, 2018-2020
-* Percorso per Giovani Talenti, Politecnico di Torino, 2015-2018
-
-Studies abroad
-======
-* Exchange Program, Applied Mathematics, EPFL, Fall 2019
-
-Summer Schools and Training Courses
-======
-* CyberChallenge.IT, Politecnico di Torino, Spring 2020
-* EIA European Innovation Academy, Politecnico di Torino, Summer 2017
-* AlfaClass (Progetto Diderot), Politecnico di Torino & Università di Torino, Summer 2016
-
-Teaching experience
-======
-* Fall 2018 - Spring 2020: Academic Tutor
-
-Languages
-======
-* Italian: native speaker
-* English: fluent written and spoken
-* French: basic knowledge
-  
-Programming Skills
-======
-* Programming Languages: C, Julia, MATLAB, C++, Java, Python, R
-* Database: SQL, Spark
-* Web Development: HTML, PHP
+* Ph.D. Scholarship, Bocconi University, 2020-2024
+* Alta Scuola Politecnica (merit-based tuition waiver), Politecnico di Torino & Politecnico di Milano, 2018-2020
+* Percorso per Giovani Talenti (merit-based tuition waiver), Politecnico di Torino, 2015-2018
