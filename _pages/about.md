@@ -13,27 +13,34 @@ I'm working on Bayesian nonparametrics, under the supervision of Prof. [Antonio 
 
 I'm also a member of the Bayesian Learning Laboratory ([Bayes Lab](https://bayeslab.unibocconi.eu/)) at Bocconi University.
 
+## Upcoming talks and conferences
+
+* **June 2024** | I will present my research at the [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) in Rome, Italy, within the contributed session *Recent Advances in Bayesian Nonparametric Statistics*, organized by Marta Catalano and Beatrice Franzolini.
+* **July 2024** | I will present my research at the [ISBA World Meeting](https://www.unive.it/web/en/2208/home) in Venice, Italy, within the session *Discrete random structures in Bayesian nonparametrics*, organized by Antonio Lijoi and Igor Prünster.
+
 ## Education
 
-* **Ph.D. in Statistics and Computer Science**, Bocconi University, 9/2020-present,  
+* **Ph.D. in Statistics and Computer Science**, Bocconi University, 9/2020-present.  
+Advisors: Prof. Antonio Lijoi and Prof. Igor Prünster.  
 Expected graduation: January 2025.
-* **M.Sc. in Engineering Mathematics**, Politecnico di Torino, 9/2018-10/2020.
-* Alta Scuola Politecnica, Politecnico di Torino & Politecnico di Milano, 2/2019-10/2020,  
-Double Degree Program
-* Exchange Program in Applied Mathematics, EPFL, Fall 2019.
+* **M.Sc. in Engineering Mathematics**, Politecnico di Torino, 9/2018-10/2020.  
+Advisors: Prof. Paola Siri and Prof. Enrico Bibbona.  
+Thesis title: *Stochastic models of Chemical Reaction Networks: multiscale approximations and convergence*.
+* Alta Scuola Politecnica, Politecnico di Torino & Politecnico di Milano, 2/2019-10/2020.  
+Double Degree Program.
+* Exchange Program (Erasmus+) in Applied Mathematics, EPFL, Fall 2019.
 * **B.Sc. in Mathematics for Engineering**, Politecnico di Torino, 10/2015-10/2018.
 
-## Awards and Funding
-
-* Ph.D. Scholarship, Bocconi University, 2020-2024.
-* Alta Scuola Politecnica (merit-based tuition waiver), Politecnico di Torino & Politecnico di Milano, 2018-2020.
-* Percorso per Giovani Talenti (merit-based tuition waiver), Politecnico di Torino, 2015-2018.
-
 ## Publications
+
+### Papers in refereed journals
 
 * **A Unified Approach to Hierarchical Random Measures**.  
 Catalano, M., Del Sole, C., Lijoi, A., Prünster, I. (2023).  
 *D. Basu Centennial Volume, Sankhya A*, forthcoming. [[link]](https://link.springer.com/article/10.1007/s13171-023-00330-w)
+
+### Conference proceedings
+
 * **A Note on the Dependence Structure of Hierarchical Random Measures**.  
 Catalano, M., Del Sole, C. (2023).  
 *Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_8)
@@ -42,6 +49,14 @@ Catalano, M., Del Sole, C. (2023).
 
 * **Hierarchically dependent mixture hazard rates for modelling competing risks**.  
 Del Sole, C., Lijoi, A., Prünster, I. (2024+).
+
+## Awards and Funding
+
+* Ph.D. Scholarship, Bocconi University, 2020-2024.
+* Alta Scuola Politecnica, Politecnico di Torino & Politecnico di Milano, 2018-2020.  
+Merit-based tuition waiver.
+* Percorso per Giovani Talenti, Politecnico di Torino, 2015-2018.  
+Merit-based tuition waiver.
 
 ## Presentations & Conferences
 
