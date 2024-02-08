@@ -15,8 +15,8 @@ I'm also a member of the Bayesian Learning Laboratory ([Bayes Lab](https://bayes
 
 ## Upcoming talks and conferences
 
-* **June 2024** | I will present my research at the [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) in Rome, Italy, within the contributed session *Recent Advances in Bayesian Nonparametric Statistics*, organized by Marta Catalano and Beatrice Franzolini.
-* **July 2024** | I will present my research at the [ISBA World Meeting](https://www.unive.it/web/en/2208/home) in Venice, Italy, within the session *Discrete random structures in Bayesian nonparametrics*, organized by Antonio Lijoi and Igor Prünster.
+* **June 2024**: I will present my research at the [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) in Rome, Italy, within the contributed session *Recent Advances in Bayesian Nonparametric Statistics*, organized by Marta Catalano and Beatrice Franzolini.
+* **July 2024**: I will present my research at the [ISBA World Meeting](https://www.unive.it/web/en/2208/home) in Venice, Italy, within the session *Discrete random structures in Bayesian nonparametrics*, organized by Antonio Lijoi and Igor Prünster.
 
 ## Education
 
