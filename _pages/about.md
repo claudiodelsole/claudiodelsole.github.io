@@ -15,21 +15,24 @@ I'm also a member of the Bayesian Learning Laboratory ([Bayes Lab](https://bayes
 
 ## Upcoming talks and conferences
 
-* **June 2024**: I will present my research at the [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) in Rome, Italy, within the contributed session *Recent Advances in Bayesian Nonparametric Statistics*, organized by Marta Catalano and Beatrice Franzolini.
-* **July 2024**: I will present my research at the [ISBA World Meeting](https://www.unive.it/web/en/2208/home) in Venice, Italy, within the session *Discrete random structures in Bayesian nonparametrics*, organized by Antonio Lijoi and Igor Prünster.
+* **June 2024**: I will talk at the [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) in Rome, Italy, within the contributed session *Recent Advances in Bayesian Nonparametric Statistics*, organized by Marta Catalano and Beatrice Franzolini.
+* **June 2024**: I will present a poster at the [BAYSM 2024](https://events.stat.uconn.edu/BAYSM2024/) Bayesian Young Statisticians Meeting in Venice, Italy.
+* **July 2024**: I will talk at the [ISBA World Meeting](https://www.unive.it/web/en/2208/home) in Venice, Italy, within the session *Discrete random structures in Bayesian nonparametrics*, organized by Antonio Lijoi and Igor Prünster.
+* **July 2024**: I will participate in the Residential Research Program on [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/) at the Institute of Mathematical Sciences (IMS),National University of Singapore, Singapore.
+* **July 2024**: I will talk at the [3rd BNP Networking Workshop](https://bnp-networking2024.github.io/) in Singapore.
 
 ## Education
 
 * **Ph.D. in Statistics and Computer Science**, Bocconi University, 9/2020-present.  
 Advisors: Prof. Antonio Lijoi and Prof. Igor Prünster.  
 Expected graduation: January 2025.
-* **M.Sc. in Engineering Mathematics**, Politecnico di Torino, 9/2018-10/2020.  
+* **M.Sc. in Mathematical Engineering**, Politecnico di Torino, 9/2018-10/2020.  
 Advisors: Prof. Paola Siri and Prof. Enrico Bibbona.  
 Thesis title: *Stochastic models of Chemical Reaction Networks: multiscale approximations and convergence*.
 * Alta Scuola Politecnica, Politecnico di Torino & Politecnico di Milano, 2/2019-10/2020.  
 Double Degree Program.
 * Exchange Program (Erasmus+) in Applied Mathematics, EPFL, Fall 2019.
-* **B.Sc. in Mathematics for Engineering**, Politecnico di Torino, 10/2015-10/2018.
+* **B.Sc. in Mathematics for Engineering**, Politecnico di Torino, 9/2015-10/2018.
 
 ## Publications
 
@@ -42,7 +45,8 @@ Catalano, M., Del Sole, C., Lijoi, A., Prünster, I. (2023).
 ### Conference proceedings
 
 * **A Note on the Dependence Structure of Hierarchical Random Measures**.  
-Catalano, M., Del Sole, C. (2023).  
+Catalano, M., Del Sole, C. (2023).
+In *Bayesian Statistics, New Generations New Approaches*,
 *Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_8)
 
 ### Working papers
@@ -50,32 +54,44 @@ Catalano, M., Del Sole, C. (2023).
 * **Hierarchically dependent mixture hazard rates for modelling competing risks**.  
 Del Sole, C., Lijoi, A., Prünster, I. (2024+).
 
+* **Nonhomogeneous Pitmna-Yor process**.  
+Del Sole, C., Lijoi, A., Prünster, I. (2024+).
+
 ## Awards and Funding
 
 * Ph.D. Scholarship, Bocconi University, 2020-2024.
-* Alta Scuola Politecnica, Politecnico di Torino & Politecnico di Milano, 2018-2020.  
+* Alta Scuola Politecnica, Politecnico di Torino, 2018-2020.  
 Merit-based tuition waiver.
 * Percorso per Giovani Talenti, Politecnico di Torino, 2015-2018.  
-Merit-based tuition waiver.
+Merit-based partial tuition waiver.
+
+### Travel award
+
+* 3rd BNP Networking Workshop, Singapore, July 2024.
 
 ## Presentations & Conferences
 
 ### Invited Presentations
 
+* [International Conference on Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719), January 2025, Varanasi, India.
 * [ISBA World Meeting](https://www.unive.it/web/en/2208/home), July 2024, Venice, Italy.
 * [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/), June 2024, Rome, Italy.
 * [EcoSta 2023](https://www.cmstatistics.org/EcoSta2023/index.php), 6th International Conference on Econometrics and Statistics, August 2023, Tokyo, Japan.
 
 ### Contributed Presentations
 
+* [3rd BNP Networking Workshop](https://bnp-networking2024.github.io/), July 2024, Singapore.
 * [Bayes at CIRM](https://bayesatcirm.github.io/2023/), Autumn School in Bayesian Statistics, October 2023, Marseille, France.
 
 ### Posters
 
+* [BAYSM 2024](https://events.stat.uconn.edu/BAYSM2024/) Bayesian Young Statisticians Meeting, June 2024, Venice, Italy.
+* [StaTalk 2024](https://www.disia.unifi.it/vp-462-statalk2024.html), May 2024, Florence, Italy. *Winner of the Honorable Mention*
 * Workshop on Approximation Methods in Bayesian Analysis, June 2023, Marseille, France.
 
 ### Conference participations
 
+* Residential Research Program on [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/), July 2024, Singapore.
 * Workshop on Theory for Scalable, Modern Statistical Methods, April 2023, Milan, Italy.
 * [BNP 13](https://midas.mat.uc.cl/bnp13/), 13th International Conference on Bayesian Nonparametric, October 2022, Puerto Varas, Chile.
 * BNP Networking Workshop, April 2022, Nicosia, Cyprus.
@@ -84,13 +100,15 @@ Merit-based tuition waiver.
 
 ### Bocconi University
 
+* Mathematical Statistics, Teaching Assistant, Fall 2021-2022-2023.
 * Machine Learning II, Teaching Assistant, Fall 2023.
 * Fundamentals of Business Analytics, Teaching Assistant, Fall 2022-2023.
 * Mathematical Analysis II, Teaching Assistant, Spring 2022-2023-2024.
-* Mathematical Statistics, Teaching Assistant, Fall 2021-2022-2023.
+* Mathematical Methods in Computer Science, Teaching Assistant, Fall 2023.
+* Elements of Real and Complex Analysis, Teaching Assistant, Spring 2023.
 
 ### Politecnico di Torino
 
-* Mathematical Methods for Engineering, Co-instructor, Spring 2023.
+* Mathematical Methods for Engineering, Instructor, Spring 2023.
 * Mathematical Methods for Engineering, Academic Tutor, Spring 2019.
 * Probability and Statistics, Academic Tutor, Fall 2018.
