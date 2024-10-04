@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,9 +14,6 @@ I'm also a member of the Bayesian Learning Laboratory ([Bayes Lab](https://bayes
 
 ## Upcoming talks and conferences
 
-* **June 2024**: I will talk at the [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) in Rome, Italy, within the contributed session *Recent Advances in Bayesian Nonparametric Statistics*, organized by Marta Catalano and Beatrice Franzolini.
-* **June 2024**: I will present a poster at the [BAYSM 2024](https://events.stat.uconn.edu/BAYSM2024/) Bayesian Young Statisticians Meeting in Venice, Italy.
-* **July 2024**: I will talk at the [ISBA World Meeting](https://www.unive.it/web/en/2208/home) in Venice, Italy, within the session *Discrete random structures in Bayesian nonparametrics*, organized by Antonio Lijoi and Igor Prünster.
 * **July 2024**: I will participate in the Residential Research Program on [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/) at the Institute of Mathematical Sciences (IMS),National University of Singapore, Singapore.
 * **July 2024**: I will talk at the [3rd BNP Networking Workshop](https://bnp-networking2024.github.io/) in Singapore.
 
@@ -92,9 +88,9 @@ Merit-based partial tuition waiver.
 ### Conference participations
 
 * Residential Research Program on [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/), July 2024, Singapore.
-* Workshop on Theory for Scalable, Modern Statistical Methods, April 2023, Milan, Italy.
+* [Workshop on Theory for Scalable, Modern Statistical Methods](https://botondszabo.com/home/workshop/), April 2023, Milan, Italy.
 * [BNP 13](https://midas.mat.uc.cl/bnp13/), 13th International Conference on Bayesian Nonparametric, October 2022, Puerto Varas, Chile.
-* BNP Networking Workshop, April 2022, Nicosia, Cyprus.
+* [2nd BNP Networking Workshop](https://cyprusconferences.org/bnp2022/), April 2022, Nicosia, Cyprus.
 
 ## Teaching Experience
 
