@@ -11,14 +11,14 @@ title                    : "Claudio Del Sole"
 title_separator          : "-"
 name                     : &name "Claudio Del Sole"
 description              : &description "PhD Student, Statistics and Computer Science"
-url                      : https://claudiodelsole.github.io # the base hostname & protocol for your site
-baseurl                  : "" # the subpath of your site
+url                      : https://claudiodelsole.github.io 
+baseurl                  : ""
 repository               : "claudiodelsole/claudiodelsole.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/
 breadcrumbs              : false # true, false (default)
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : false # change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -100,7 +100,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "claudio-del-sole/"
-  orcid            :
+  orcid            : "https://orcid.org/0009-0006-4333-2592"
   pinterest        :
   soundcloud       :
   stackoverflow    :
@@ -130,7 +130,6 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - LICENSE
-  - README
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
@@ -165,21 +164,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 # Defaults
 defaults:
