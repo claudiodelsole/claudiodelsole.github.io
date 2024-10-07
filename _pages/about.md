@@ -6,15 +6,11 @@ redirect_from:
   - /about.html
 ---
 
-# Claudio Del Sole
-
 I am a fourth year PhD Student in [Statistics and Computer Science](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+statistics+and+computer+science) at Bocconi University.
 I'm working on Bayesian nonparametrics, under the supervision of Prof. [Antonio Lijoi](https://mypage.unibocconi.eu/antoniolijoi/) and Prof. [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/).
 I'm also a member of the Bayesian Learning Laboratory ([Bayes Lab](https://bayeslab.unibocconi.eu/)) at Bocconi University.
 
-## Upcoming talks and conferences
-
-
+<!-- ## Upcoming talks and conferences -->
 
 ## Education
 
@@ -34,20 +30,20 @@ Double Degree Program.
 ### Papers in refereed journals
 
 * **A Unified Approach to Hierarchical Random Measures**.  
-M. Catalano, <i>C. Del Sole</i>, A. Lijoi, I. Prünster (2023).  
+M. Catalano, <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2023).  
 *D. Basu Centennial Volume, Sankhya A*, forthcoming. [[link]](https://link.springer.com/article/10.1007/s13171-023-00330-w) [[pdf](/files/sankhya.pdf)]
 
 ### Conference proceedings
 
 * **A Note on the Dependence Structure of Hierarchical Random Measures**.  
-M. Catalano, <i>C. Del Sole</i> (2023).
+M. Catalano, <ins>C. Del Sole</ins> (2023).
 In *Bayesian Statistics, New Generations New Approaches*,
 *Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_8)
 
 ### Working papers
 
 * **Hierarchically dependent mixture hazard rates for modelling competing risks**.  
-<i>C. Del Sole</i>, A. Lijoi, I. Prünster (2024+).
+<ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2024+).
 
 ## Awards and Funding
 
