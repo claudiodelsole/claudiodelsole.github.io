@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "Claudio Del Sole"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,8 +15,7 @@ I'm also a member of the Bayesian Learning Laboratory ([Bayes Lab](https://bayes
 
 ## Upcoming talks and conferences
 
-* **July 2024**: I will participate in the Residential Research Program on [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/) at the Institute of Mathematical Sciences (IMS),National University of Singapore, Singapore.
-* **July 2024**: I will talk at the [3rd BNP Networking Workshop](https://bnp-networking2024.github.io/) in Singapore.
+
 
 ## Education
 
@@ -35,23 +35,20 @@ Double Degree Program.
 ### Papers in refereed journals
 
 * **A Unified Approach to Hierarchical Random Measures**.  
-Catalano, M., Del Sole, C., Lijoi, A., Prünster, I. (2023).  
-*D. Basu Centennial Volume, Sankhya A*, forthcoming. [[link]](https://link.springer.com/article/10.1007/s13171-023-00330-w)
+M. Catalano, <i>C. Del Sole</i>, A. Lijoi, I. Prünster (2023).  
+*D. Basu Centennial Volume, Sankhya A*, forthcoming. [[link]](https://link.springer.com/article/10.1007/s13171-023-00330-w) [[pdf](/files/sankhya.pdf)]
 
 ### Conference proceedings
 
 * **A Note on the Dependence Structure of Hierarchical Random Measures**.  
-Catalano, M., Del Sole, C. (2023).
+M. Catalano, <i>C. Del Sole</i> (2023).
 In *Bayesian Statistics, New Generations New Approaches*,
 *Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_8)
 
 ### Working papers
 
 * **Hierarchically dependent mixture hazard rates for modelling competing risks**.  
-Del Sole, C., Lijoi, A., Prünster, I. (2024+).
-
-* **Nonhomogeneous Pitmna-Yor process**.  
-Del Sole, C., Lijoi, A., Prünster, I. (2024+).
+<i>C. Del Sole</i>, A. Lijoi, I. Prünster (2024+).
 
 ## Awards and Funding
 
