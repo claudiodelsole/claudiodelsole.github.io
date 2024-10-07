@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Claudio Del Sole"
 author_profile: true
 redirect_from: 
   - /about/
