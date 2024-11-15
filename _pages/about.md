@@ -21,7 +21,7 @@ Expected graduation: January 2025.
 Advisors: Prof. Paola Siri and Prof. Enrico Bibbona.  
 Thesis title: *Stochastic models of Chemical Reaction Networks: multiscale approximations and convergence*.
 * Alta Scuola Politecnica, Politecnico di Torino & Politecnico di Milano, 2/2019-10/2020.  
-Double Degree Program.
+Honors Program.
 * Exchange Program (Erasmus+) in Applied Mathematics, EPFL, Fall 2019.
 * **B.Sc. in Mathematics for Engineering**, Politecnico di Torino, 9/2015-10/2018.
 
@@ -42,7 +42,7 @@ In *Bayesian Statistics, New Generations New Approaches*,
 
 ### Working papers
 
-* **Hierarchically dependent mixture hazard rates for modelling competing risks**.  
+* **Principled estimation and prediction with competing risks: a Bayesian nonparametric approach**.  
 <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2024+).
 
 ## Awards and Funding
@@ -89,10 +89,11 @@ Merit-based partial tuition waiver.
 ### Bocconi University
 
 * Mathematical Statistics, Teaching Assistant, Fall 2021-2022-2023.
-* Machine Learning II, Teaching Assistant, Fall 2023.
-* Fundamentals of Business Analytics, Teaching Assistant, Fall 2022-2023.
+* Advanced Statistics for Economics and Social Sciences, Teaching Assistant, Fall 2023-2024.
+* Machine Learning II, Teaching Assistant, Fall 2023-2024.
+* Fundamentals of Business Analytics, Teaching Assistant, Fall 2022-2023-2024.
 * Mathematical Analysis II, Teaching Assistant, Spring 2022-2023-2024.
-* Mathematical Methods in Computer Science, Teaching Assistant, Fall 2023.
+* Mathematical Methods in Computer Science, Teaching Assistant, Fall 2023-2024.
 * Elements of Real and Complex Analysis, Teaching Assistant, Spring 2023.
 
 ### Politecnico di Torino
