@@ -15,7 +15,8 @@ I'm also a member of the Bayesian Learning Laboratory ([Bayes Lab](https://bayes
 ## Education
 
 * **Ph.D. in Statistics and Computer Science**, Bocconi University, 9/2020-present.  
-Advisors: Prof. Antonio Lijoi and Prof. Igor Prünster.  
+Advisors: Prof. Antonio Lijoi and Prof. Igor Prünster.
+Thesis title: *Contributions to dependent processes in Bayesian nonparametrics*.
 Expected graduation: January 2025.
 * **M.Sc. in Mathematical Engineering**, Politecnico di Torino, 9/2018-10/2020.  
 Advisors: Prof. Paola Siri and Prof. Enrico Bibbona.  
