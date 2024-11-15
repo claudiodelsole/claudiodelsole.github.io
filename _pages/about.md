@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD Student in [Statistics and Computer Science](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+statistics+and+computer+science) at Bocconi University.
+I am a PhD Candidate in [Statistics and Computer Science](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+statistics+and+computer+science) at Bocconi University.
 I'm working on Bayesian nonparametrics, under the supervision of Prof. [Antonio Lijoi](https://mypage.unibocconi.eu/antoniolijoi/) and Prof. [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/).
 I'm also a member of the Bayesian Learning Laboratory ([Bayes Lab](https://bayeslab.unibocconi.eu/)) at Bocconi University.
 
