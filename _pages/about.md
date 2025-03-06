@@ -6,18 +6,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in [Statistics and Computer Science](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+statistics+and+computer+science) at Bocconi University.
-I'm working on Bayesian nonparametrics, under the supervision of Prof. [Antonio Lijoi](https://mypage.unibocconi.eu/antoniolijoi/) and Prof. [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/).
+I am a postdoctoral researcher in Statistics at University of Milano-Bicocca. I'm working on Bayesian nonparametrics under the supervision of [Federico Camerlenghi](https://sites.google.com/unimib.it/camerlenghi-federico/home-page).
+
+I recently obtained a PhD in [Statistics and Computer Science](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+statistics+and+computer+science) at Bocconi University, under the supervision of [Antonio Lijoi](https://mypage.unibocconi.eu/antoniolijoi/) and [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/).
+
 I'm also a member of the Bayesian Learning Laboratory ([Bayes Lab](https://bayeslab.unibocconi.eu/)) at Bocconi University.
 
 <!-- ## Upcoming talks and conferences -->
 
+## Academic Positions
+
+* **Postdoctoral researcher**, Università degli Studi di Milano--Bicocca, 11/2024-present.   
+Supervisor: Prof. Federico Camerlenghi.
+
 ## Education
 
-* **Ph.D. in Statistics and Computer Science**, Bocconi University, 9/2020-present.  
+* **Ph.D. in Statistics and Computer Science**, Bocconi University, 9/2020-1/2025.  
 Advisors: Prof. Antonio Lijoi and Prof. Igor Prünster.
 Thesis title: *Contributions to dependent processes in Bayesian nonparametrics*.
-Expected graduation: January 2025.
 * **M.Sc. in Mathematical Engineering**, Politecnico di Torino, 9/2018-10/2020.  
 Advisors: Prof. Paola Siri and Prof. Enrico Bibbona.  
 Thesis title: *Stochastic models of Chemical Reaction Networks: multiscale approximations and convergence*.
@@ -28,7 +34,7 @@ Honors Program.
 
 ## Publications
 
-### Papers in refereed journals
+### Papers in peer-reviewed journals
 
 * **A Unified Approach to Hierarchical Random Measures**.  
 M. Catalano, <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2023).  
@@ -39,12 +45,12 @@ M. Catalano, <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2023).
 * **A Note on the Dependence Structure of Hierarchical Random Measures**.  
 M. Catalano, <ins>C. Del Sole</ins> (2023).
 In *Bayesian Statistics, New Generations New Approaches*,
-*Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_8)
+*Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_8) [[pdf](/files/baysm.pdf)]
 
-### Working papers
+### Preprints and working papers
 
 * **Principled estimation and prediction with competing risks: a Bayesian nonparametric approach**.  
-<ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2024+).
+<ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2024+). *Submitted*
 
 ## Awards and Funding
 
@@ -56,7 +62,8 @@ Merit-based partial tuition waiver.
 
 ### Travel award
 
-* 3rd BNP Networking Workshop, Singapore, July 2024.
+* 14th International Conference on Bayesian Nonparametrics, June 2025, Los Angeles, USA.
+* 3rd BNP Networking Workshop, July 2024, Singapore.
 
 ## Presentations & Conferences
 
@@ -69,11 +76,13 @@ Merit-based partial tuition waiver.
 
 ### Contributed Presentations
 
+* [BNP 14](https://bnp14.org/), 14th International Conference on Bayesian Nonparametrics, June 2025, Los Angeles, USA.
 * [3rd BNP Networking Workshop](https://bnp-networking2024.github.io/), July 2024, Singapore.
 * [Bayes at CIRM](https://bayesatcirm.github.io/2023/), Autumn School in Bayesian Statistics, October 2023, Marseille, France.
 
 ### Posters
 
+* [SAfJR 2025](https://safjr2025.uni-bonn.de/), 10th Survival Analysis for Junior Researchers Conference, March 2025, Bonn, Germany.
 * [BAYSM 2024](https://events.stat.uconn.edu/BAYSM2024/) Bayesian Young Statisticians Meeting, June 2024, Venice, Italy.
 * [StaTalk 2024](https://www.disia.unifi.it/vp-462-statalk2024.html), May 2024, Florence, Italy. *Winner of the Honorable Mention*
 * Workshop on Approximation Methods in Bayesian Analysis, June 2023, Marseille, France.
@@ -92,6 +101,7 @@ Merit-based partial tuition waiver.
 * Mathematical Statistics, Teaching Assistant, Fall 2021-2022-2023.
 * Advanced Statistics for Economics and Social Sciences, Teaching Assistant, Fall 2023-2024.
 * Machine Learning II, Teaching Assistant, Fall 2023-2024.
+* Advanced Statistical Methods, Teaching Assistant, Fall 2024.
 * Fundamentals of Business Analytics, Teaching Assistant, Fall 2022-2023-2024.
 * Mathematical Analysis II, Teaching Assistant, Spring 2022-2023-2024.
 * Mathematical Methods in Computer Science, Teaching Assistant, Fall 2023-2024.
