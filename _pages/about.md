@@ -54,6 +54,7 @@ In *Bayesian Statistics, New Generations New Approaches*,
 
 ## Awards and Funding
 
+* Special financial support, Bocconi University, 2024.
 * Ph.D. Scholarship, Bocconi University, 2020-2024.
 * Alta Scuola Politecnica, Politecnico di Torino, 2018-2020.  
 Merit-based tuition waiver.
