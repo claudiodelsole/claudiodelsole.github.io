@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Claudio Del Sole"
 title_separator          : "-"
 name                     : &name "Claudio Del Sole"
-description              : &description "PhD Student, Statistics and Computer Science"
+description              : &description "Postdoctoral Researcher in Statistics"
 url                      : https://claudiodelsole.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site
 repository               : "claudiodelsole/claudiodelsole.github.io"
@@ -79,12 +79,12 @@ analytics:
 author:
   name             : "Claudio Del Sole"
   avatar           : "profile_photo.jpg"
-  bio              : "PhD Student in Statistics and Computer Science"
+  bio              : "Postdoctoral Researcher in Statistics"
   location         : "Milan, Italy"
-  employer         : "Bocconi University"
+  employer         : "University of Milano--Bicocca"
   pubmed           :
   googlescholar    : 
-  email            : "claudio.delsole@phd.unibocconi.it"
+  email            : "claudio.delsole@unimib.it"
   researchgate     :
   uri              :
   bitbucket        :
