@@ -22,7 +22,7 @@ Supervisor: Prof. Federico Camerlenghi.
 ## Education
 
 * **Ph.D. in Statistics and Computer Science**, Bocconi University, 9/2020-1/2025.  
-Advisors: Prof. Antonio Lijoi and Prof. Igor Prünster.
+Advisors: Prof. Antonio Lijoi and Prof. Igor Prünster.   
 Thesis title: *Contributions to dependent processes in Bayesian nonparametrics*.
 * **M.Sc. in Mathematical Engineering**, Politecnico di Torino, 9/2018-10/2020.  
 Advisors: Prof. Paola Siri and Prof. Enrico Bibbona.  
