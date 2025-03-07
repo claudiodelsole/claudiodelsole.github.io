@@ -37,8 +37,8 @@ Honors Program.
 ### Papers in peer-reviewed journals
 
 * **A Unified Approach to Hierarchical Random Measures**.  
-M. Catalano, <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2023).  
-*D. Basu Centennial Volume, Sankhya A*, forthcoming. [[link]](https://link.springer.com/article/10.1007/s13171-023-00330-w) [[pdf](/files/sankhya.pdf)]
+M. Catalano, <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2024).  
+*D. Basu Centennial Volume, Sankhya A*, 86(S1), 255-287. [[link]](https://link.springer.com/article/10.1007/s13171-023-00330-w) [[pdf](/files/sankhya.pdf)]
 
 ### Conference proceedings
 
