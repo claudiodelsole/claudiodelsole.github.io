@@ -53,7 +53,7 @@ In *Bayesian Statistics, New Generations New Approaches*,
 
 ### PhD Thesis
 
-* **Contributions to dependent processes in Bayesian nonparametrics**.
+* **Contributions to dependent processes in Bayesian nonparametrics**.  
 <ins>C. Del Sole</ins> (2025). [[IRIS](https://hdl.handle.net/11565/4071786)] [[pdf](/files/thesis.pdf)]
 
 ### Preprints
