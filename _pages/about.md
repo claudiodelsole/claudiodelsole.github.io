@@ -8,7 +8,7 @@ redirect_from:
 
 I am a postdoctoral researcher in Statistics at University of Milano-Bicocca. I'm working on Bayesian nonparametrics under the supervision of [Federico Camerlenghi](https://sites.google.com/unimib.it/camerlenghi-federico/home-page).
 
-I obtained a PhD in [Statistics and Computer Science](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+statistics+and+computer+science) at Bocconi University, under the supervision of [Antonio Lijoi](https://mypage.unibocconi.eu/antoniolijoi/) and [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/).
+I obtained a PhD in [Statistics and Computer Science](https://www.unibocconi.it/en/programs/phd/phd-statistics-and-computer-science) at Bocconi University, under the supervision of [Antonio Lijoi](https://mypage.unibocconi.eu/antoniolijoi/) and [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/).
 
 I'm also a member of the Bayesian Learning Laboratory ([Bayes Lab](https://bayeslab.unibocconi.eu/)) at Bocconi University.
 
@@ -38,7 +38,7 @@ Honors Program.
 
 * **Principled Estimation and Prediction with Competing Risks: a Bayesian Nonparametric Approach**.  
 <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2026).
-*Journal of the American Statistical Association* (to appear) [[pdf](/files/competing_risks.pdf)]
+*Journal of the American Statistical Association* (to appear). [[pdf](/files/competing_risks.pdf)]
 
 * **A Unified Approach to Hierarchical Random Measures**.  
 M. Catalano, <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2024).  
@@ -54,7 +54,7 @@ In *Bayesian Statistics, New Generations New Approaches*,
 ### PhD Thesis
 
 * **Contributions to dependent processes in Bayesian nonparametrics**.
-<ins>C. Del Sole</ins>(2025). [[IRIS](https://hdl.handle.net/11565/4071786)] [[pdf](/files/thesis.pdf)]
+<ins>C. Del Sole</ins> (2025). [[IRIS](https://hdl.handle.net/11565/4071786)] [[pdf](/files/thesis.pdf)]
 
 ### Preprints
 
