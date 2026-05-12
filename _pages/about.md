@@ -37,9 +37,8 @@ Honors Program.
 ### Peer-reviewed journals
 
 * **Principled Estimation and Prediction with Competing Risks: a Bayesian Nonparametric Approach**.  
-<ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2026).
-*Journal of the American Statistical Association* (in press).  
-[[paper](https://doi.org/10.1080/01621459.2026.2667536)] [[pdf](/files/competing_risks.pdf)] [[code](https://github.com/claudiodelsole/CompetingRisks.jl)] [[arXiv](https://arxiv.org/abs/2604.26559)]
+<ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2026).  
+*Journal of the American Statistical Association* (in press). [[paper](https://doi.org/10.1080/01621459.2026.2667536)] [[pdf](/files/competing_risks.pdf)] [[code](https://github.com/claudiodelsole/CompetingRisks.jl)] [[arXiv](https://arxiv.org/abs/2604.26559)]
 
 * **A Unified Approach to Hierarchical Random Measures**.  
 M. Catalano, <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2024).  
