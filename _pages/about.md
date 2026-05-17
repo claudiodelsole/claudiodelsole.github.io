@@ -108,7 +108,7 @@ Merit-based partial tuition waiver.
 * Residential Research Program on [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/), July 2024, Singapore.
 * [Workshop on Theory for Scalable, Modern Statistical Methods](https://botondszabo.com/home/workshop/), April 2023, Milan, Italy.
 * [BNP 13](https://midas.mat.uc.cl/bnp13/), 13th International Conference on Bayesian Nonparametric, October 2022, Puerto Varas, Chile.
-* [2nd BNP Networking Workshop](https://cyprusconferences.org/bnp2022/), April 2022, Nicosia, Cyprus.
+* [1st BNP Networking Workshop](https://cyprusconferences.org/bnp2022/), April 2022, Nicosia, Cyprus.
 
 ## Teaching Experience
 
