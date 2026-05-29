@@ -95,7 +95,6 @@ Merit-based partial tuition waiver.
 
 ### Posters
 
-* [StaTalk](https://sites.google.com/view/statalk-2026/home), May 2026, Turin, Italy.
 * [SISBayes Workshop](https://sisbayes2025.stat.unipd.it/), September 2025, Padua, Italy.
 * [Early-Career Workshop on Nonparametric Statistics](https://sites.google.com/view/wsnpstats/home), May 2025, Rome, Italy.
 * [SAfJR 2025](https://safjr2025.uni-bonn.de/), 10th Survival Analysis for Junior Researchers Conference, March 2025, Bonn, Germany.
@@ -105,6 +104,7 @@ Merit-based partial tuition waiver.
 
 ### Conference participations
 
+* [StaTalk](https://sites.google.com/view/statalk-2026/home), May 2026, Turin, Italy.
 * Residential Research Program on [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/), July 2024, Singapore.
 * [Workshop on Theory for Scalable, Modern Statistical Methods](https://botondszabo.com/home/workshop/), April 2023, Milan, Italy.
 * [BNP 13](https://midas.mat.uc.cl/bnp13/), 13th International Conference on Bayesian Nonparametric, October 2022, Puerto Varas, Chile.
