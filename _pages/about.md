@@ -36,6 +36,8 @@ Honors Program.
 
 ### Peer-reviewed journals
 
+* **Hierarchical Random Measures without Tables**.  
+M. Catalano, <ins>C. Del Sole</ins> (2026). *Bayesian Analysis* (in press) [[paper](https://doi.org/10.1214/26-BA1609)] [[pdf](/files/hcrv.pdf)] [[code](https://github.com/claudiodelsole/hCRV.jl)] [[arXiv](https://arxiv.org/abs/2505.02653)]
 * **Principled Estimation and Prediction with Competing Risks: a Bayesian Nonparametric Approach**.  
 <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2026).  
 *Journal of the American Statistical Association* (in press). [[paper](https://doi.org/10.1080/01621459.2026.2667536)] [[pdf](/files/competing_risks.pdf)] [[code](https://github.com/claudiodelsole/CompetingRisks.jl)] [[arXiv](https://arxiv.org/abs/2604.26559)]
@@ -56,10 +58,7 @@ In *Bayesian Statistics, New Generations New Approaches*,
 * **Contributions to dependent processes in Bayesian nonparametrics**.  
 <ins>C. Del Sole</ins> (2025). [[IRIS](https://hdl.handle.net/11565/4071786)] [[pdf](/files/thesis.pdf)]
 
-### Preprints
-
-* **Hierarchical Random Measures without Tables**.  
-M. Catalano, <ins>C. Del Sole</ins> (2026+). [[arXiv](https://arxiv.org/abs/2505.02653)]
+<!-- ### Preprints -->
 
 ## Awards and Funding
 
@@ -95,6 +94,7 @@ Merit-based partial tuition waiver.
 
 ### Posters
 
+* [ISBA World Meeting](https://isba2026.github.io/), June 2026, Nagoya, Japan.
 * [SISBayes Workshop](https://sisbayes2025.stat.unipd.it/), September 2025, Padua, Italy.
 * [Early-Career Workshop on Nonparametric Statistics](https://sites.google.com/view/wsnpstats/home), May 2025, Rome, Italy.
 * [SAfJR 2025](https://safjr2025.uni-bonn.de/), 10th Survival Analysis for Junior Researchers Conference, March 2025, Bonn, Germany.
