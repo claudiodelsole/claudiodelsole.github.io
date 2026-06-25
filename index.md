@@ -1,18 +1,56 @@
 ---
 permalink: /
-author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a postdoctoral researcher in Statistics at University of Milano-Bicocca. I'm working on Bayesian nonparametrics under the supervision of [Federico Camerlenghi](https://sites.google.com/unimib.it/camerlenghi-federico/home-page).
+I am a postdoctoral researcher in Statistics at [University of Milano-Bicocca](https://www.unimib.it/), where I'm working on Bayesian nonparametrics under the supervision of [Federico Camerlenghi](https://sites.google.com/unimib.it/camerlenghi-federico/home-page).
 
-I obtained a PhD in [Statistics and Computer Science](https://www.unibocconi.it/en/programs/phd/phd-statistics-and-computer-science) at Bocconi University, under the supervision of [Antonio Lijoi](https://mypage.unibocconi.eu/antoniolijoi/) and [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/).
+In January 2025, I obtained a PhD in [Statistics and Computer Science](https://www.unibocconi.it/en/programs/phd/phd-statistics-and-computer-science) at [Bocconi University](https://www.unibocconi.it), under the supervision of [Antonio Lijoi](https://mypage.unibocconi.eu/antoniolijoi/) and [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/).
 
 I'm also a member of the Bayesian Learning Laboratory ([Bayes Lab](https://bayeslab.unibocconi.eu/)) at Bocconi University.
 
-<!-- ## Upcoming talks and conferences -->
+* * *
+
+## Upcoming talks and conferences
+
+* [ISBA World Meeting](https://isba2026.github.io/), June 2026, Nagoya, Japan.   
+I will present a poster on *A Bayesian nonparametric approach to the multi-armed bandit problem in trait allocation models*, a joint work with Federico Camerlenghi and Mario Beraha.
+* [4th BNP Networking Workshop](https://bnpnetworking2026.github.io/), July 2026, Seoul, South Korea.   
+I will talk about *Hierarchical Random Measures without Tables*, a joint work with Marta Catalano.
+
+* * *
+
+## Publications
+
+### Peer-reviewed journals
+
+* [**Hierarchical Random Measures without Tables**](https://doi.org/10.1214/26-BA1609).  
+M. Catalano, <ins>C. Del Sole</ins> (2026). *Bayesian Analysis* (in press). [[pdf](/papers/hcrv.pdf)] [[code](https://github.com/claudiodelsole/hCRV.jl)] [[arXiv](https://arxiv.org/abs/2505.02653)]
+* [**Principled Estimation and Prediction with Competing Risks: a Bayesian Nonparametric Approach**](https://doi.org/10.1080/01621459.2026.2667536).  
+<ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2026).  
+*Journal of the American Statistical Association* (in press). [[pdf](/papers/competing_risks.pdf)] [[code](https://github.com/claudiodelsole/CompetingRisks.jl)] [[arXiv](https://arxiv.org/abs/2604.26559)]
+
+* [**A Unified Approach to Hierarchical Random Measures**](https://doi.org/10.1007/s13171-023-00330-w).  
+M. Catalano, <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2024).  
+*D. Basu Centennial Volume, Sankhya A* 86(S1), 255-287. [[pdf](/papers/sankhya.pdf)]
+
+### Conference proceedings
+
+* [**A Note on the Dependence Structure of Hierarchical Random Measures**](https://doi.org/10.1007/978-3-031-42413-7_8).  
+M. Catalano, <ins>C. Del Sole</ins> (2023).
+In *Bayesian Statistics, New Generations New Approaches*,
+*Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[pdf](/files/baysm.pdf)]
+
+### PhD Thesis
+
+* **Contributions to dependent processes in Bayesian nonparametrics**.  
+<ins>C. Del Sole</ins> (2025). [[IRIS](https://hdl.handle.net/11565/4071786)] [[pdf](/files/thesis.pdf)]
+
+<!-- ### Preprints -->
+
+* * *
 
 ## Academic Positions
 
@@ -32,48 +70,7 @@ Honors Program.
 * Exchange Program (Erasmus+) in Applied Mathematics, EPFL, Fall 2019.
 * **B.Sc. in Mathematics for Engineering**, Politecnico di Torino, 9/2015-10/2018.
 
-## Publications
-
-### Peer-reviewed journals
-
-* **Hierarchical Random Measures without Tables**.  
-M. Catalano, <ins>C. Del Sole</ins> (2026). *Bayesian Analysis* (in press) [[paper](https://doi.org/10.1214/26-BA1609)] [[pdf](/files/hcrv.pdf)] [[code](https://github.com/claudiodelsole/hCRV.jl)] [[arXiv](https://arxiv.org/abs/2505.02653)]
-* **Principled Estimation and Prediction with Competing Risks: a Bayesian Nonparametric Approach**.  
-<ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2026).  
-*Journal of the American Statistical Association* (in press). [[paper](https://doi.org/10.1080/01621459.2026.2667536)] [[pdf](/files/competing_risks.pdf)] [[code](https://github.com/claudiodelsole/CompetingRisks.jl)] [[arXiv](https://arxiv.org/abs/2604.26559)]
-
-* **A Unified Approach to Hierarchical Random Measures**.  
-M. Catalano, <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2024).  
-*D. Basu Centennial Volume, Sankhya A* 86(S1), 255-287. [[paper](https://doi.org/10.1007/s13171-023-00330-w)] [[pdf](/files/sankhya.pdf)]
-
-### Conference proceedings
-
-* **A Note on the Dependence Structure of Hierarchical Random Measures**.  
-M. Catalano, <ins>C. Del Sole</ins> (2023).
-In *Bayesian Statistics, New Generations New Approaches*,
-*Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[paper](https://doi.org/10.1007/978-3-031-42413-7_8)] [[pdf](/files/baysm.pdf)]
-
-### PhD Thesis
-
-* **Contributions to dependent processes in Bayesian nonparametrics**.  
-<ins>C. Del Sole</ins> (2025). [[IRIS](https://hdl.handle.net/11565/4071786)] [[pdf](/files/thesis.pdf)]
-
-<!-- ### Preprints -->
-
-## Awards and Funding
-
-* Special financial support, Bocconi University, 2024.
-* Ph.D. Scholarship, Bocconi University, 2020-2024.
-* Alta Scuola Politecnica, Politecnico di Torino, 2018-2020.  
-Merit-based tuition waiver.
-* Percorso per Giovani Talenti, Politecnico di Torino, 2015-2018.  
-Merit-based partial tuition waiver.
-
-### Travel awards
-
-* 4th BNP Networking Workshop, July 2026, Seoul, South Korea.
-* 14th International Conference on Bayesian Nonparametrics, June 2025, Los Angeles, USA.
-* 3rd BNP Networking Workshop, July 2024, Singapore.
+* * *
 
 ## Presentations & Conferences
 
@@ -110,7 +107,7 @@ Merit-based partial tuition waiver.
 * [BNP 13](https://midas.mat.uc.cl/bnp13/), 13th International Conference on Bayesian Nonparametric, October 2022, Puerto Varas, Chile.
 * [1st BNP Networking Workshop](https://cyprusconferences.org/bnp2022/), April 2022, Nicosia, Cyprus.
 
-## Teaching Experience
+<!-- ## Teaching Experience
 
 ### University of Milano-Bicocca
 
@@ -131,4 +128,4 @@ Merit-based partial tuition waiver.
 
 * Mathematical Methods for Engineering, Instructor, Spring 2023.
 * Mathematical Methods for Engineering, Academic Tutor, Spring 2019.
-* Probability and Statistics, Academic Tutor, Fall 2018.
+* Probability and Statistics, Academic Tutor, Fall 2018. -->
