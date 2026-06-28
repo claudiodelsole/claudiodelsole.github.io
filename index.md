@@ -26,19 +26,20 @@ I will talk about *Hierarchical Random Measures without Tables*, a joint work wi
 
 ### Peer-reviewed journals
 
-* [**Hierarchical Random Measures without Tables**](https://doi.org/10.1214/26-BA1609).  
-M. Catalano, <ins>C. Del Sole</ins> (2026). *Bayesian Analysis* (in press). [[pdf](/papers/hcrv.pdf)] [[code](https://github.com/claudiodelsole/hCRV.jl)] [[arXiv](https://arxiv.org/abs/2505.02653)]
-* [**Principled Estimation and Prediction with Competing Risks: a Bayesian Nonparametric Approach**](https://doi.org/10.1080/01621459.2026.2667536).  
+* **[Hierarchical Random Measures without Tables](https://doi.org/10.1214/26-BA1609)**.  
+M. Catalano, <ins>C. Del Sole</ins> (2026).   
+*Bayesian Analysis* (in press). [[pdf](/papers/hcrv.pdf)] [[code](https://github.com/claudiodelsole/hCRV.jl)] [[arXiv](https://arxiv.org/abs/2505.02653)]
+* **[Principled Estimation and Prediction with Competing Risks: a Bayesian Nonparametric Approach](https://doi.org/10.1080/01621459.2026.2667536)**.  
 <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2026).  
 *Journal of the American Statistical Association* (in press). [[pdf](/papers/competing_risks.pdf)] [[code](https://github.com/claudiodelsole/CompetingRisks.jl)] [[arXiv](https://arxiv.org/abs/2604.26559)]
 
-* [**A Unified Approach to Hierarchical Random Measures**](https://doi.org/10.1007/s13171-023-00330-w).  
+* **[A Unified Approach to Hierarchical Random Measures](https://doi.org/10.1007/s13171-023-00330-w)**.  
 M. Catalano, <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2024).  
 *D. Basu Centennial Volume, Sankhya A* 86(S1), 255-287. [[pdf](/papers/sankhya.pdf)]
 
 ### Conference proceedings
 
-* [**A Note on the Dependence Structure of Hierarchical Random Measures**](https://doi.org/10.1007/978-3-031-42413-7_8).  
+* **[A Note on the Dependence Structure of Hierarchical Random Measures](https://doi.org/10.1007/978-3-031-42413-7_8)**.  
 M. Catalano, <ins>C. Del Sole</ins> (2023).
 In *Bayesian Statistics, New Generations New Approaches*,
 *Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[pdf](/files/baysm.pdf)]
