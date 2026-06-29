@@ -33,8 +33,7 @@ M. Catalano, <ins>C. Del Sole</ins> (2026).
 
 * **[Principled Estimation and Prediction with Competing Risks: a Bayesian Nonparametric Approach](https://doi.org/10.1080/01621459.2026.2667536)**.  
 <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2026).  
-*Journal of the American Statistical Association* (in press).  
-[[pdf](/papers/competing_risks.pdf)] [[code](https://github.com/claudiodelsole/CompetingRisks.jl)] [[arXiv](https://arxiv.org/abs/2604.26559)]
+*Journal of the American Statistical Association* (in press). [[pdf](/papers/competing_risks.pdf)] [[code](https://github.com/claudiodelsole/CompetingRisks.jl)] [[arXiv](https://arxiv.org/abs/2604.26559)]
 
 * **[A Unified Approach to Hierarchical Random Measures](https://doi.org/10.1007/s13171-023-00330-w)**.  
 M. Catalano, <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2024).  
