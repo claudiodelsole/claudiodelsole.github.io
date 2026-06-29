@@ -12,10 +12,10 @@
             <header>
                 <style>
                     header img { width: 240px; min-width: 180px; }
-                    header { width: 30%; max-width: 320px; min-width: 180px; }
-                    section { width: 60%; float: right; }
-                    @media screen and (max-width: 960px) { 
-                        header { width: 100%; min-width: 180px; float: none; }
+                    header { width: 30%; min-width: 240px; }
+                    section { width: 65%; float: right; }
+                    @media screen and (max-width: 800px) { 
+                        header { width: 100%; min-width: 240px; float: none; }
                         section { width: 100%; float: none; } }
                 </style>
                 <h1><a href = "{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -23,7 +23,7 @@
                 <br> <br>
                 <p>{{ site.tagline }}</p>
                 <p>{{ site.affiliation }} <br> {{ site.location }}</p>
-                <p>emaail: {{ site.email }}</p>
+                <p>email: {{ site.email }}</p>
                 <p class = "view"><a href = "./cv.pdf"> Curriculum Vitae </a></p>
             </header>
             <section>
