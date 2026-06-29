@@ -11,15 +11,13 @@
         <div class = "wrapper">
             <header>
                 <style>
-                    header { width: 240px; min-width: 180px; }
                     header img { width: 180px; }
-                    section { width: calc(100% - 260px); float: right; }
                 </style>
-                <h1><a href = "{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> <br>
-                <img src = "{{ site.profile_photo | relative_url }}" alt = "{{ site.title }}" />
+                <h1><a href = "{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+                <img src = "{{ site.profile_photo | relative_url }}" alt = "{{ site.title }}" /> <br>
                 <p>{{ site.description }}</p>
-                <p>{{ site.affiliation }} <br> {{ site.location }}</p>
-                <p class = "view"><a href = "./cv_eng_short.pdf"> Curriculum Vitae </a></p>
+                <p>{{ site.department }} <br> {{ site.university }} <br> {{ site.location }}</p>
+                <p class = "view"><a href = "./cv.pdf"> Curriculum Vitae </a></p>
             </header>
             <section>
 
