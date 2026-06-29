@@ -44,7 +44,7 @@ M. Catalano, <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2024).
 * **[A Note on the Dependence Structure of Hierarchical Random Measures](https://doi.org/10.1007/978-3-031-42413-7_8)**.  
 M. Catalano, <ins>C. Del Sole</ins> (2023).  
 In *Bayesian Statistics, New Generations New Approaches*,  
-*Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[pdf](/files/baysm.pdf)]
+*Springer Proceedings in Mathematics and Statistics*, Vol. 435, 77-85. [[pdf](/papers/baysm.pdf)]
 
 ### PhD Thesis
 
