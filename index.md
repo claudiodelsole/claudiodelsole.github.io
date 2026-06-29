@@ -17,6 +17,7 @@ I'm also a member of the Bayesian Learning Laboratory ([Bayes Lab](https://bayes
 
 * [ISBA World Meeting](https://isba2026.github.io/), June 2026, Nagoya, Japan.   
 I will present a poster on *A Bayesian nonparametric approach to the multi-armed bandit problem in trait allocation models*, a joint work with Federico Camerlenghi and Mario Beraha.
+
 * [4th BNP Networking Workshop](https://bnpnetworking2026.github.io/), July 2026, Seoul, South Korea.   
 I will talk about *Hierarchical Random Measures without Tables*, a joint work with Marta Catalano.
 
@@ -29,10 +30,12 @@ I will talk about *Hierarchical Random Measures without Tables*, a joint work wi
 * **[Hierarchical Random Measures without Tables](https://doi.org/10.1214/26-BA1609)**.  
 M. Catalano, <ins>C. Del Sole</ins> (2026).   
 *Bayesian Analysis* (in press). [[pdf](/papers/hcrv.pdf)] [[code](https://github.com/claudiodelsole/hCRV.jl)] [[arXiv](https://arxiv.org/abs/2505.02653)]
+
 * **[Principled Estimation and Prediction with Competing Risks: a Bayesian Nonparametric Approach](https://doi.org/10.1080/01621459.2026.2667536)**.  
 <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2026).  
 *Journal of the American Statistical Association* (in press).  
 [[pdf](/papers/competing_risks.pdf)] [[code](https://github.com/claudiodelsole/CompetingRisks.jl)] [[arXiv](https://arxiv.org/abs/2604.26559)]
+
 * **[A Unified Approach to Hierarchical Random Measures](https://doi.org/10.1007/s13171-023-00330-w)**.  
 M. Catalano, <ins>C. Del Sole</ins>, A. Lijoi, I. Prünster (2024).  
 *D. Basu Centennial Volume, Sankhya A* 86(S1), 255-287. [[pdf](/papers/sankhya.pdf)]
